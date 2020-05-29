@@ -1,0 +1,8 @@
+-mount f c:\debug (Ingreamos a la carpeta debug)
+-f: (Creamos una memoria virtual)
+-r  (Estado de los registros)
+-a 100 
+-u 100 (Decodifica)
+-t (Ejecuta paso a paso cada registro)
+-e (Escribimos en memoria)
+-d 2010 (Volcado de memoria)
